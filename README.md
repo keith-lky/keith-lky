@@ -4,4 +4,6 @@ I work at [**Human Intelligence 智能知识**](https://human-intelligence.cn/) 
 
 We build high-quality human data and expert evaluation for frontier models.
 
-🌐 [human-intelligence.cn](https://human-intelligence.cn/) · 🏢 [@wisdom-knowledge](https://github.com/wisdom-knowledge)
+- 📊 [GDPval-CN Seed Set](https://github.com/human-intelligence-ai/GDPval-CN-Seed-Set) — expert-authored Chinese real-world productivity tasks, a domestic counterpart to GDPval
+
+🌐 [human-intelligence.cn](https://human-intelligence.cn/) · 🏢 [@human-intelligence-ai](https://github.com/human-intelligence-ai)
